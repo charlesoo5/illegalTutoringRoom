@@ -6,7 +6,8 @@
 | 가장 긴 펠린드롬   | :white_check_mark: | Lv.3   | 2024.03.18 | [바로가기](2024_03/Programmers_가장긴팰린드롬.cpp)   |
 | 올바른 괄호        | :white_check_mark: | Lv.2   | 2024.03.17 | [바로가기](2024_03/Programmers_올바른괄호.cpp)       |
 | 미로탈출           | :white_check_mark: | Lv.2   | 2024.03.17 | [바로가기](2024_03/Programmers_미로탈출.cpp)         |
-| 도넛과 막대 그래프 | :white_check_mark: | Lv.3   | 2024.03.19 | [바로가기](2024_03/Programmers_도넛과막대그래프.cpp) |
+| 도넛과 막대 그래프 | :white_check_mark: | Lv.2   | 2024.03.19 | [바로가기](2024_03/Programmers_도넛과막대그래프.cpp) |
+| 혼자서 하는 틱택토 | :white_check_mark: | Lv.2   | 2024.03.19 | [바로가기](2024_03/Programmers_혼자서하는틱택토.cpp) |
 
 </details>
 
