@@ -7,6 +7,8 @@
 | 가장 긴 펠린드롬 | :white_check_mark:  | Lv.3   |     240317   | [바로가기](2024_03/Sol_가장긴펠린드롬.java) |
 | 올바른 괄호      | :white_check_mark:   | Lv.2   |     240317   | [바로가기](2024_03/Sol_올바른문자열.java) |
 | 주사위 고르기      | :white_check_mark:   | Lv.3   |   240319     | [바로가기](2024_03/Sol_주사위고르기.java) |
+| 멀리 뛰기      | :white_check_mark:   | Lv.2   |   240324     | [바로가기](2024_03/Sol_멀리뛰기.java) |
+| 최솟값 만들기 | :white_check_mark:   | Lv.2  |   240324     | [바로가기](2024_03/Sol_최솟값만들기.java) |
 
 </details>
 
