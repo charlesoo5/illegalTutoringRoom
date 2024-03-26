@@ -9,6 +9,8 @@
 | 도넛과 막대 그래프       | :white_check_mark: | Lv.2   | 2024.03.19 | [바로가기](2024_03/Programmers_도넛과막대그래프.cpp)     |
 | 혼자서 하는 틱택토       | :white_check_mark: | Lv.2   | 2024.03.19 | [바로가기](2024_03/Programmers_혼자서하는틱택토.cpp)     |
 | 연속 펄스 부분 수열의 합 | :white_check_mark: | Lv.2   | 2024.03.19 | [바로가기](2024_03/Programmers_연속펄스부분수열의합.cpp) |
+| 멀리 뛰기                | :white_check_mark: | Lv.2   | 2024.03.26 | [바로가기](2024_03/Programmers_멀리뛰기.cpp)             |
+| 최솟값 만들기            | :white_check_mark: | Lv.2   | 2024.03.26 | [바로가기](2024_03/Programmers_최솟값만들기.cpp)         |
 
 </details>
 
