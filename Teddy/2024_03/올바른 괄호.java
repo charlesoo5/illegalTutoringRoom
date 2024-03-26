@@ -1,11 +1,3 @@
-#### 이해
-	 괄호'('모양으로 열렸으면 ')'모양으로 닫혀있는지 올바르게 짝지어졌는지 확인하는 문제
-
-#### 접근
-	 1. 자료구조 Stack을 이용하여 문제 풀이
-
-#### 코드
-```
 import java.util.Stack;
 
 class Solution {
@@ -35,4 +27,3 @@ class Solution {
         return answer;
     }
 }
-```
