@@ -9,7 +9,8 @@
 | 주사위 고르기      | :white_check_mark:   | Lv.3   |   240319     | [바로가기](2024_03/Sol_주사위고르기.java) |
 | 멀리 뛰기      | :white_check_mark:   | Lv.2   |   240324     | [바로가기](2024_03/Sol_멀리뛰기.java) |
 | 최솟값 만들기 | :white_check_mark:   | Lv.2  |   240324     | [바로가기](2024_03/Sol_최소값만들기.java) |
-
+| NQueen | :white_check_mark:   | Lv.2  |   240324     | [바로가기](2024_03/피보나치수.c) |
+| 피보나치 | :white_check_mark:   | Lv.2  |   240324     | [바로가기](2024_03/Nqueen.cpp) |
 </details>
 
 <!-- :white_large_square: :white_check_mark: -->
