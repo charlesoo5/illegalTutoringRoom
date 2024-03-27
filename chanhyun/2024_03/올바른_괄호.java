@@ -1,4 +1,4 @@
-class 올바른 괄호 {
+class 올바른_괄호 {
     boolean solution(String s) {
         char[] arr = s.toCharArray();
         int count = 0;
