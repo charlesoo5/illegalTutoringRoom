@@ -1,4 +1,4 @@
-class 가장 긴 팰린드롬 {
+class 가장_긴_팰린드롬 {
     int solution(String s) {
         char[] arr = s.toCharArray();
         int max = 0;
