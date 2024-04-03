@@ -8,6 +8,7 @@
 | 멀리 뛰기        | :white_check_mark: | Lv.2   | 2024.03.25 | [바로가기](2024_03/멀리뛰기.java)       |
 | 최솟값 만들기    | :white_check_mark: | Lv.2   | 2024.03.28 | [바로가기](2024_03/최솟값만들기.java)   |
 | 피보나치 수      | :white_check_mark: | Lv.2   | 2024.04.01 | [바로가기](2024_03/피보나치수.java)     |
+| N-Queen          | :white_check_mark: | Lv.2   | 2024.04.04 | [바로가기](2024_03/N-Queen.java)        |
 
 </details>
 
