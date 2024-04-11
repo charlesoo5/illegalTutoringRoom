@@ -9,6 +9,8 @@
 | 최솟값 만들기    | :white_check_mark: | Lv.2   | 2023.03.27. | [바로가기](2024_03/최솟값%20만들기.java)      |
 | N-Queen          | :white_check_mark: | Lv.2   | 2023.04.02. | [바로가기](2024_03/N-Queen.java)              |
 | 피보나치 수      | :white_check_mark: | Lv.2   | 2023.04.02. | [바로가기](2024_03/피보나치%20수.java)        |
+| N개의 최소공배수 | :white_check_mark: | Lv.2   | 2024.04.11  | [바로가기](2024_03/N개의%20최소공배수.java)   |
+| 주식가격         | :white_check_mark: | Lv.2   | 2024.03.26  | [바로가기](2024_03/주식가격.java)             |
 
 </details>
 
