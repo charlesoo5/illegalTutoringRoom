@@ -23,6 +23,7 @@
 | 구슬탈출 2         | :white_check_mark: | Gold1  | 240414 | [바로가기](2024_04/Sol_13460_구슬탈출2.java)    |
 | 주사위 굴리기      | :white_check_mark: | Gold4  | 240415 | [바로가기](2024_04/Sol_14499_주사위굴리기.java) |
 | 코드트리-마법의 숲 | :white_check_mark: | Gold3  | 240417 | [바로가기](2024_04/CT_마법의_숲.java)           |
+| 테트로미노         | :white_check_mark: | Gold4  | 240424 | [바로가기](2024_04/Sol_14500_테트로미노.java)   |
 
 </details>
 
