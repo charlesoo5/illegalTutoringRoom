@@ -1,4 +1,4 @@
-class 멀리_뛰기 {
+class 멀리뛰기 {
     public long solution(int n) {
         if (n == 1) return 1;
         if (n == 2) return 2;
