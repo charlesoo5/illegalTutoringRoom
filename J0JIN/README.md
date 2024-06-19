@@ -1,4 +1,4 @@
-<details open>
+<details close>
 <summary>3월</summary>
 
 | 문제 이름        | 진행 현황          | 난이도 | 제출일 | 소스코드                                      |
@@ -14,7 +14,7 @@
 
 </details>
 
-<details open>
+<details close>
 
 <summary>4월</summary>
 
@@ -27,7 +27,7 @@
 
 </details>
 
-<details open>
+<details close>
 
 <summary>5월</summary>
 
@@ -47,7 +47,9 @@
 | 음악프로그램 | :white_check_mark: | Gold3  | 240612 | 위상정렬             | [바로가기](2024_06/Sol_2623_음악프로그램.java)  |
 | 사다리조작   | :white_check_mark: | Gold3  | 240613 | 구현, 조합           | [바로가기](2024_06/Sol_15684_사다리조작.java)   |
 | 나무재테크   | :white_check_mark: | Gold3  | 240616 | 구현, 자료구조       | [바로가기](2024_06/Sol_16235_나무재테크.java)   |
-| 나무재테크   | :white_check_mark: | Gold2  | 240617 | 행렬방정식, 분할정복 | [바로가기](2024_06/Sol_11444_피보나치수_6.java) |
+| 피보나치수6  | :white_check_mark: | Gold2  | 240617 | 행렬방정식, 분할정복 | [바로가기](2024_06/Sol_11444_피보나치수_6.java) |
+| 트리의 지름  | :white_check_mark: | Gold2  | 240618 | 트리, BFS            | [바로가기](2024_06/Sol_1167_트리의지름.java)    |
+| 플로이드     | :white_check_mark: | Gold4  | 240619 | 플로이드워셜         | [바로가기](2024_06/Sol_11404_플로이드.java)     |
 
 </details>
 
