@@ -50,6 +50,7 @@
 | 피보나치수6  | :white_check_mark: | Gold2  | 240617 | 행렬방정식, 분할정복 | [바로가기](2024_06/Sol_11444_피보나치수_6.java) |
 | 트리의 지름  | :white_check_mark: | Gold2  | 240618 | 트리, BFS            | [바로가기](2024_06/Sol_1167_트리의지름.java)    |
 | 플로이드     | :white_check_mark: | Gold4  | 240619 | 플로이드워셜         | [바로가기](2024_06/Sol_11404_플로이드.java)     |
+| 파티         | :white_check_mark: | Gold3  | 240620 | 다익스트라           | [바로가기](2024_06/Sol_1238_파티.java)          |
 
 </details>
 
