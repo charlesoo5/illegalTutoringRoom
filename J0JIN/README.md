@@ -52,6 +52,7 @@
 | 플로이드     | :white_check_mark: | Gold4  | 240619 | 플로이드워셜         | [바로가기](2024_06/Sol_11404_플로이드.java)     |
 | 파티         | :white_check_mark: | Gold3  | 240620 | 다익스트라           | [바로가기](2024_06/Sol_1238_파티.java)          |
 | Garden       | :white_check_mark: | Gold1  | 240621 | 조합, BFS            | [바로가기](2024_06/Sol_18809_Garden.java)       |
+| 드래곤커브   | :white_check_mark: | Gold3  | 240626 | 구현                 | [바로가기](2024_06/Sol_15685_드래곤커브.java)   |
 
 </details>
 
