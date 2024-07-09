@@ -64,8 +64,8 @@
 | ------------------ | --------- | ------------------ | ------- | ------ | --------------------- | ------------------------------------------------ |
 | BOJ                | 미네랄    | :white_check_mark: | Gold1   | 240701 | 구현, BFS             | [바로가기](2024_07/Sol_2933_미네랄.java)         |
 | BOJ                | 수찾기    | :white_check_mark: | Silver4 | 240705 | 해시, 이분탐색        | [바로가기](2024_07/Sol_1920_수찾기.java)         |
-| 엘리스 코딩 챌린지 | Day1      | :white_check_mark: | 중      | 240708 | 조합, NextPermutation | [바로가기](2024_07/EliceCodeChallenge_Day1.java) |
-| 엘리스 코딩 챌린지 | Day2      | :white_check_mark: | 하      | 240708 | 정렬                  | [바로가기](2024_07/EliceCodeChallenge_Day1.java) |
+| 엘리스 코딩 챌린지 | Day1      | :white_check_mark: | 중      | 240708 | 조합, NextPermutation | [바로가기](2024_07/EliceCodingChallenge_Day1.java) |
+| 엘리스 코딩 챌린지 | Day2      | :white_check_mark: | 하      | 240708 | 정렬                  | [바로가기](2024_07/EliceCodingChallenge_Day2.java) |
 
 </details>
 
