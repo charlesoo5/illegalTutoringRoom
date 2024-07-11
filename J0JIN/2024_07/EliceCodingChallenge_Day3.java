@@ -15,7 +15,7 @@ class Main {
 
         for (int i = start; i < end; i++) {
             if (s[i] == '(') {
-                int K = s[i - 1] - '0'; // 이전 문자는 항상 숫자입니다.
+                int K = s[i - 1] - '0';
                 int subStart = i + 1;
                 int brackets = 1;
                 int j = i + 1;
