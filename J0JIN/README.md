@@ -67,7 +67,8 @@
 | 엘리스 코딩 챌린지 | Day1      | :white_check_mark: | 중      | 240708 | 조합, NextPermutation | [바로가기](2024_07/EliceCodingChallenge_Day1.java)         |
 | 엘리스 코딩 챌린지 | Day2      | :white_check_mark: | 하      | 240709 | 정렬                  | [바로가기](2024_07/EliceCodingChallenge_Day2.java)         |
 | 엘리스 코딩 챌린지 | Day3      | :white_check_mark: | 중      | 240710 | 문자열, 재귀          | [바로가기](2024_07/EliceCodingChallenge_Day3.java)         |
-| 엘리스 코딩 챌린지 | Day4      | :white_check_mark: | 상      | 240711 | 위상정렬?             | [바로가기](<2024_07/EliceCodingChallenge_Day4(오답).java>) |
+| 엘리스 코딩 챌린지 | Day4      | :white_check_mark: | 상      | 240711 | DFS                   | [바로가기](<2024_07/EliceCodingChallenge_Day4(오답).java>) |
+| 엘리스 코딩 챌린지 | Day4      | :white_check_mark: | 상      | 240711 | 재귀, 해쉬            | [바로가기](<2024_07/EliceCodingChallenge_Day5(오답).java>) |
 
 </details>
 
