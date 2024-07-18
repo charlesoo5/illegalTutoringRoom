@@ -1,4 +1,4 @@
-<details open>
+<details close>
 <summary>3월</summary>
 
 | 문제 이름                | 진행 현황          | 난이도 | 제출일     | 소스코드                                                 |
@@ -11,6 +11,15 @@
 | 연속 펄스 부분 수열의 합 | :white_check_mark: | Lv.2   | 2024.03.19 | [바로가기](2024_03/Programmers_연속펄스부분수열의합.cpp) |
 | 멀리 뛰기                | :white_check_mark: | Lv.2   | 2024.03.26 | [바로가기](2024_03/Programmers_멀리뛰기.cpp)             |
 | 최솟값 만들기            | :white_check_mark: | Lv.2   | 2024.03.26 | [바로가기](2024_03/Programmers_최솟값만들기.cpp)         |
+
+</details>
+
+<details open>
+<summary>7월</summary>
+
+| 문제 이름 | 진행 현황          | 난이도 | 제출일     | 소스코드                               |
+| --------- | ------------------ | ------ | ---------- | -------------------------------------- |
+| 빗물      | :white_check_mark: | G5     | 2024.07.18 | [바로가기](2024_07/BOJ_14719_빗물.cpp) |
 
 </details>
 
