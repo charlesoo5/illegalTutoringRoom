@@ -71,6 +71,8 @@
 | 엘리스 코딩 챌린지 | Day5      | :white_check_mark: | 상      | 240712 | DFS                   | [바로가기](2024_07/EliceCodingChallenge_Day5.java) |
 | 엘리스 코딩 챌린지 | Day6      | :white_check_mark: | 상      | 240715 | DP, BFS               | [바로가기](2024_07/EliceCodingChallenge_Day6.java) |
 | 엘리스 코딩 챌린지 | Day7      | :white_check_mark: | 중      | 240716 | Brutal                | [바로가기](2024_07/EliceCodingChallenge_Day7.java) |
+| Programmers  | 가장 많이 받은 선물     | :white_check_mark: | Lv.1      | 240716 | 해쉬, 구현             | [바로가기](2024_07/Sol_가장많이받은선물.java) |
+
 
 </details>
 
